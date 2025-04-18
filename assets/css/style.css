@@ -310,6 +310,11 @@ header {
     justify-content: center;
 }
 
+.banner_right video {
+    width: 600px;
+    height: 600px;
+}
+
 .banner_right .rect {
     position: absolute;
     top: 0;
